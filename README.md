@@ -1,0 +1,2 @@
+# my_ollama_mcp_server
+pythonによる自分専用のMCPServerリポジトリです．
